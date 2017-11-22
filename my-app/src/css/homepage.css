@@ -1,0 +1,17 @@
+.hompage{
+	width: 100%;
+	font-size: 14px;
+	color: #888;
+	display: table;
+}
+.left,.mid,.right{
+	display: table-cell;
+}
+.left,.right{
+	
+	width: 200px;
+	background-color: #f6f6f6;
+}
+.mid{
+	width: 800px;
+}
